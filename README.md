@@ -32,7 +32,8 @@ Bu proje kapsamında Türkçe şiirler; **aşk, gurbet, kahramanlık, pastoral v
 
 ## 📎 Rapor
 Ayrıntılı rapora aşağıdaki bağlantıdan ulaşabilirsiniz:  
-📄 **[Projeyi Anlatan PDF Raporunu Görüntüle](./Tuğçe_Gül_221307036 (1).pdf)**
+[Projeyi Anlatan PDF Raporunu Görüntüle](./Tuğçe_Gül_221307036%20(1).pdf)
+
 
 ## 📚 Kaynakça
 - [Text Data Augmentation with TextAttack](https://www.analyticsvidhya.com/blog/2022/02/text-data-augmentation-in-natural-language-processing-with-texattack/)
